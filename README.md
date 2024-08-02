@@ -1,5 +1,5 @@
 # Body Measurements Dataset Analysis
-
+The Body Measurements Dataset offers a range of body measurement data for individuals, including key anthropometric dimensions and demographic details. This dataset is ideal for performing statistical analyses to explore relationships between different body measurements and demographic factors. The primary goal of this analysis is to understand how these measurements interrelate and vary across different groups.
 ## Dataset
 The dataset includes various body measurements and is used for statistical tests and correlation analyses. The dataset is sourced from [Kaggle Body Measurements Dataset](https://www.kaggle.com/datasets/saurabhshahane/body-measurements-dataset).
 
