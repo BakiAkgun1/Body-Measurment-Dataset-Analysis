@@ -3,7 +3,8 @@ The Body Measurements Dataset offers a range of body measurement data for indivi
 
 ## Dataset
 
-The dataset includes various body measurements and is used for statistical tests and correlation analyses. The dataset is sourced from [Kaggle Body Measurements Dataset](https://www.kaggle.com/datasets/saurabhshahane/body-measurements-dataset).
+The dataset includes various body measurements and is used for statistical tests and correlation analyses.
+The dataset is sourced from [Kaggle Body Measurements Dataset](https://www.kaggle.com/datasets/saurabhshahane/body-measurements-dataset).
 
 ## Dataset Columns
 - **Height**: Height (cm)
